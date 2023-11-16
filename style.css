@@ -4,7 +4,7 @@ body {
 .jumbotron {
   background-color:#f2e4c1;
 }
-.h2, .h3, h1 {
+.header {
   text-align: center;
   color:#f2e4c1;
 }
