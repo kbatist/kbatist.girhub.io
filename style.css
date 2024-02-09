@@ -53,7 +53,7 @@ three{
   animation: fadeIn 1s
 }
 
-/* Add animation (fade in the popup) */
+/* Add animation (fade in the popup)
 @-webkit-keyframes fadeIn {
   from {opacity: 0;}
   to {opacity: 1;}
@@ -63,3 +63,4 @@ three{
   from {opacity: 0;}
   to {opacity:1 ;}
 }
+ */
